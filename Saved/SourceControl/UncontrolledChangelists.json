@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Ground_Crack.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/WoodCracks02_Tex_Normal.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/AssetsTest.umap",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/Crack_Decal01.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/Crack_Decal02.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/LEVEL2.umap",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/Crack_Decal01_Inst.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/Crack_Decal02_Inst.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/WoodCracks02_Tex_Normal2.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/WoodCracks03_Tex_Nor.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/WoodCracks03_Tex_Nor2.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Level1_Assets/lambert1.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Level1_Assets/Pineline_Test.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Weihan/Assets/FPWeapon/Materials/BaseMaterial.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/WoodCracks02_Tex.uasset",
+				"F:/Projects/GGP_GithubFile/GGP_T6_5.4.4/Content/Gin/Texture/NewMaterial.uasset"
+			]
+		}
+	]
+}
